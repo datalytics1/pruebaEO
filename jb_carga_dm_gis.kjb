@@ -145,7 +145,7 @@
       <auth_user>&#x24;&#x7b;MAIL_SMTP_USER&#x7d;</auth_user>
       <auth_password>&#x24;&#x7b;MAIL_SMTP_PASSWORD&#x7d;</auth_password>
       <only_comment>Y</only_comment>
-      <use_HTML>N</use_HTML>
+      <use_HTML>N</use_HTML >
       <use_Priority>N</use_Priority>
       <encoding>UTF-8</encoding>
       <priority>normal</priority>
